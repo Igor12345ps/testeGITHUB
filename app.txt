@@ -1,5 +1,11 @@
 ola mundo
 
 Igor escrevendo aqui!!
+<<<<<<< HEAD
+
 Igor fazendo um teste...
 brach testes
+=======
+ola mundo 2.0
+brach testes
+>>>>>>> e7275cc71ebf02d9134ead88b0e154c81738bb7e
