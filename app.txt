@@ -1,2 +1,6 @@
 int n1 = 5;
-in2 n2 = 6;
+int n2 = 6;
+
+public int subtrair() {
+    return n1 - n2;
+}
