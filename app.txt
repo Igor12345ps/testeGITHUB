@@ -4,3 +4,7 @@ int n2 = 6;
 public int subtrair() {
     return n1 - n2;
 }
+
+public int somar() {
+  return n1 + n2;
+}
