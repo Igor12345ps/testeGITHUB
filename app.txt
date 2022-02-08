@@ -1,5 +1,2 @@
-opa, apaguei tudo!
-
-aqui eu alterei
-teste linha 3
-linha 5
+int n1 = 5;
+in2 n2 = 6;
